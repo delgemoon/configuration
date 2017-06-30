@@ -12,6 +12,7 @@
 #
 
 DEMO_CREATE_STAFF_USER: true
+DEMO_CREATE_ADMIN_USER: true
 
 demo_app_dir: "{{ COMMON_APP_DIR }}/demo"
 demo_code_dir: "{{ demo_app_dir }}/edx-demo-course"
